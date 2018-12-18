@@ -32,6 +32,9 @@
   "devDependencies": {
     "prettier": "^1.15.2"
   },
+  "resolutions": {
+    "react-hot-loader": "4.6.2"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gatsbyjs/gatsby-starter-default"
